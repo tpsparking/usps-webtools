@@ -1,10 +1,10 @@
 {
-  "name": "usps-webtools",
+  "name": "address-validaiton-USPS",
   "author": "Sherod Taylor <sherodtaylor@gmail.com>",
-  "description": "Api wrapper for the USPS Web-Tools",
+  "description": "Api wrapper for the USPS address validation",
   "version": "0.1.1",
   "main": "./src/usps",
-  "repository": "git://github.com/MadisonReed/usps-webtools",
+  "repository": "git://github.com/tpsparking/usps-webtools",
   "contributors": [
     {
       "name": "Sherod Taylor",
@@ -21,9 +21,6 @@
   ],
   "keywords": [
     "usps",
-    "web-tools",
-    "web",
-    "tools",
     "address",
     "validation",
     "standardization"
